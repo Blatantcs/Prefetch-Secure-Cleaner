@@ -7,3 +7,5 @@ Prefetch cleaner to clean traces of this artifact.
 2- All files are truncated to zero bytes, after which they are overwritten with completely random data and after that they are renamed to random names and taken to the C:\Windows\Temp folder and finally deleted.
 
 3- The application closes after successfully completing its function.
+
+Making it extremely difficult to retrieve prefetch information, but all of this leaves traces in the USN journal that can be bypassed.
