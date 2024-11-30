@@ -1,3 +1,4 @@
+![imagem_2024-11-30_103728333](https://github.com/user-attachments/assets/c0d598cc-d82d-4ff1-9108-f8567543dde7)
 # Prefetch-Secure-Cleaner
 Prefetch cleaner to clean traces of this artifact.
 
