@@ -73,7 +73,6 @@ void S() {
     CloseServiceHandle(hSCManager);
 }
 int main() {
-    S();  
     D();  
     return 0;
 }
